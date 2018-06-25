@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    href: /about/
+  - title: "Research"
+    href: /research/
+  - title: "Patents"
+    href: /patents/
+  - title: "Courses"
+    href: "/courses/"
+  - title: "Students"
+    href: /students/
