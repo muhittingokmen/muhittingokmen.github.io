@@ -9,8 +9,7 @@ Merhaba,
 
 MEF Üniversitesi tanıtım günlerinde üniversite tercihi yapma aşamasında pek çok öğrenci ve ailesiyle görüştüm. Bu yazıda, sıkça sorulan soruları dikkate alarak meslek seçimi yapmaya çalışan arkadaşlara yardımcı olmaya çalışacağım.
 
-Neden Bilgisayar Mühendisliği?
-
+### Neden Bilgisayar Mühendisliği?
 Herşeyden önce Bilgisayar Mühendisliği (BM) kelimenin tam anlamayla çağını yaşayan bir meslek dalı. Hepimizin farkında olduğu gibi bilgisayarın kullanılmadığı alan kalmadı gibi. İş dünyasındaki uygulamalardan, sosyal medyaya, endüstriyel üretimden tarıma, bankacılıktan, iletişim sektörüne kadar hemen her alanda bilgisayar kullanılıyor. 
 
 Tüm bu alanlarda kullanılan yazılımlara ek olarak günlük yaşantımızda elimizden düşürmediğimiz cep telefonlarında kullandığımız uygulamalar bilgisayar mühendisleri tarafından geliştiriliyor.  
@@ -23,8 +22,7 @@ Bilgisayar mühendisliği tüm dünyada geçerli bir meslek. Mesleki bilgisini, 
 
 Yine bilişim sektöründe, girişimci gençlerin küçük yatırımlarla firmalar kurarak yenilikçi ürünler geliştirip büyük katma değer yaratma olasılıkları diğer sektörlere göre oldukça yüksek. Dünyada ve ülkemizde bunun başarılı örnekleri var. Ülkemizin ekonomik olarak düzlüğe çıkmasında en büyük umut, eğitimli geçlerimizin yüksek katma değer yarattıkları başarılı firma sayısının artırılmasıdır. 
 
-Ben yapabilir miyim, bana uygun mu?
-
+### Ben yapabilir miyim, bana uygun mu?
 Sıkça karşılaştığımız sorulardan biri bu soru. Tamam BM güzel meslek de, ben yapabilir miyim? 
 Kanımca, gençlerin Bilgisayar Mühendisliği alanında  başarılı olmaları için Matematik ve Fen konularına ilgili olmaları, ama her şeyden önce bu konuları öğrenmeye istekli olmaları gerekiyor. Bilgisayar Mühendisliği eğitimi kolay bir eğitim değil. Bilgisayarın yapısını, nasıl çalıştığını öğrenmekten, program/yazılım geliştirmeye kadar daha önce öğrencinin karşılaşmadığı pek çok konuda öğrenilmesi gereken çok şey var. Bunları öğrenmenin/öğretmenin en doğru yolu da proje yapmak. Dolayısıyla bilgisayar mühendisliği öğrencilerinin dört yıllık eğitimleri boyunca pek çok proje yaparak deneyim kazanmaları gerekiyor. Yoğun ama severek yapıldığında oldukça keyifli işler. Ve en önemlisi başarıyla tamamlandığında havucun büyük olması :) 
 
