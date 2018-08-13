@@ -10,7 +10,8 @@ permalink: /students/
 - Fatih Kahraman, Aktif Görünüm Modeline Dayalı Gürbüz Yüz Hizalama, ITU BE ,Ekim 2009
 - Abdülkerim Çapar, “Object Segmentation and Recognition Using Gradient based descriptors and shape driven fast marching methods, ITU FBE, Haziran 2010,
 - Birkan Tunc, “Robust Face Recognition on Nonlinear Manifolds,” ITU BE Haziran 2012,
-- Aydın Akyol,”Efficient Techniques for the Single Frame Super-resolution Reconstruction of Intensity Images,”, ITU FBE, Haziran 2012
+- Aydın Akyol,”Efficient Techniques for the Single Frame Super-resolution Reconstruction of Intensity Images,”, ITU FBE, Haziran 2012,
+- Meryem Uzun-Per, "Face recognition with Local Walsh Transform,", ITU FBE, February 2018,
 
 ## Master Theses Supervised
 
