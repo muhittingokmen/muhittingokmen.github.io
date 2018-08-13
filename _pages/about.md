@@ -21,8 +21,12 @@ Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture a
 
 ### Previous Positions
 
+
+- **Founding Shareholder**  
+[**Divit** Teknoloji A.Ş:, an R&D Startup](http://www.divit.com)
+
 - **Founding Director**  
-[**Divit** Digital Image and Video Technologies, an R&D Startup](http://www.divitface.com)
+[**Divit** Digital Image and Video Technologies, an R&D Startup](http://www.divit.com)
 
 - **Dean (2001 - 2004)**  
 [**Istanbul Technical University** Faculty of Electrical and Electronics Engineering](http://www.itu.edu.tr)
