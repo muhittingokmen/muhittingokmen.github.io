@@ -5,7 +5,7 @@ permalink: /students/
 ## PhD Theses Supervised
 
 - Attila Gültekin, "Adaptive Shape from Shading," İTÜ Kontrol-Bilgisayar Müh.Böl., ITU FBE, Haziran 1997
-- İlhan Kubilay Yalçın, “3D Model Based Sthocastic tracking of License Plates in Video Sequences," ITU FBE , Ekim 2007
+- İlhan Kubilay Yalçın, “3D Model Based Stochastic tracking of License Plates in Video Sequences," ITU FBE , Ekim 2007
 - Binnur Kurt, “Goal-Oriented Edge Detection”, ITU FBE , Ekim., 2007
 - Fatih Kahraman, Aktif Görünüm Modeline Dayalı Gürbüz Yüz Hizalama, ITU BE ,Ekim 2009
 - Abdülkerim Çapar, “Object Segmentation and Recognition Using Gradient based descriptors and shape driven fast marching methods, ITU FBE, Haziran 2010,
