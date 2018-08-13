@@ -32,4 +32,4 @@ Bilgisayar Mühendisliği, yapay zeka, robotik, makine öğrenmesi, bilgisayarla
 
 Son olarak, Bilgisayar Mühendisliği okumaya karar veren gençlerimizin üniversite seçimi aşamasında, bölümde tam zamanlı hoca sayısını, hocaların yurtiçi ve yurtdışı deneyimlerini, yaptıkları bilimsel yayınlarını, yurtdışı bağlantılarını, ders programlarının güncelliğini,  derslerin işleniş şeklini, öğrenciyi, eğitimi ve kaliteyi ne kadar önemsediklerini ellerinden geldiğince değerlendirmelerinde yarar var. 
 
-Tüm gençlerimize ve ailelerine, meslek seçimlerinde, Üniversite seçimlerinde başarılar diliyorum.
+Tüm gençlerimize ve ailelerine, meslek seçimlerinde, üniversite seçimlerinde başarılar diliyorum.
