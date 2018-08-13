@@ -33,9 +33,11 @@ permalink: /research/
 7.  F. Kahraman, M. Gokmen, “Face recognition with the use of principal component analysis based on artificial neural networks,” PERCEPTION 31: 139-139 Suppl. S 2002
 8.  A. Capar, B.Kurt, M.Gokmen, “Affine-Invariant Gradient Based Shape Descriptor”, Machine Vision & Applications, vol.20,No:6,365-378, 2009,
 9.  F. Kahraman, M. Gökmen,"Active Illumination and Appearance Model for Face Alignment,", Turkish Journal Elec Eng & Comp Sci, Vol.18, No.4, 2010, pp.677-691.
-10. B. Tunç, M.Gökmen,"Manifold Learning for Face Recognition Under Changing Illumination," Telecommunication Systems, Special Issue on Face Recognition, Vol.47, Iss.3-4, pp.185, 2011, ISSN: 10184864
-11. B.Tunc, V.Dağlı, M.Gökmen, “Class Dependent Factor Analysis and Its Application to Face Recognition”, Pattern Recognition, in print, 2012
-12. A. Akyol, M.Gokmen,” Super-Resolution Reconstruction of Faces by Enhanced Global Models of Shape and Texture,” Pattern Recognition, in print, 2012
+10. B. Tunç, M.Gökmen,"Manifold Learning for Face Recognition Under Changing Illumination," Telecommunication Systems, Special Issue on Face Recognition, Vol.47, Iss.3-4, pp.185, 2011, ISSN: 10184864,
+11. B.Tunc, V.Dağlı, M.Gökmen, “Class Dependent Factor Analysis and Its Application to Face Recognition”, Pattern Recognition 45, 2012, pp.4092-4102,
+12. A. Akyol, M.Gokmen,” Super-Resolution Reconstruction of Faces by Enhanced Global Models of Shape and Texture,” Pattern Recognition, Pattern Recognition 45, 2012, pp.4103-4116,
+13.M. Uzun-Per, M. Gokmen,"Face recognition with Patch-based Local Walsh Transform," Signal Processing: Image Communication 61, 2018, pp.85-96,
+14. E Basaran, M Gökmen, ME Kamasak, "An Efficient Multiscale Scheme Using Local Zernike Moments for Face Recognition," Applied Sciences 8 (5), 2018, p.827,
 
 ### LNCS papers
 
