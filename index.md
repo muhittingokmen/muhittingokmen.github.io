@@ -14,7 +14,7 @@ I am an academician at MEF University with research interest in Computer Vision,
 and like a forest, in brotherhood -  
     this longing is ours.*
 
-*-- Nazim Hikmet*
+*-- Nazım Hikmet*
 
 
 <!-- Homepage contents go here -->
