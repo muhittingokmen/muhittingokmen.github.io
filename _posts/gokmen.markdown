@@ -4,6 +4,7 @@ title: Neden Bilgisayar Mühendisliği?
 date: '2018-08-12 22:09:23 -0400'
 published: true
 ---
+
 Merhaba, 
 
 MEF Üniversitesi tanıtım günlerinde üniversite tercihi yapma aşamasında pek çok öğrenci ve ailesiyle görüştüm. Bu yazıda, sıkça sorulan soruları dikkate alarak meslek seçimi yapmaya çalışan arkadaşlara yardımcı olmaya çalışacağım.
