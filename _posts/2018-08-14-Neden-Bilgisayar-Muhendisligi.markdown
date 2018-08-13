@@ -14,7 +14,7 @@ Her şeyden önce Bilgisayar Mühendisliği (BM) kelimenin tam anlamayla çağı
 
 Tüm bu alanlarda kullanılan yazılımlara ek olarak günlük yaşantımızda elimizden düşürmediğimiz cep telefonlarında kullandığımız uygulamalar bilgisayar mühendisleri tarafından geliştiriliyor.  
 
-Günümüzde bilgisayar sektörü en büyük ticari başarıların elde edildiği alanların başında yer alıyor. Dünyanın en zenginlerinin bilgisayarla ilgili işlerden zengin olmuş olmaları da bilgisayarın günümüzdeki önemini gösteriyor. Dünyadaki dudak uçuklatan ticari başarıların yanısıra ülkemizde de, teknokentlerde bulunan firmaların %80'e yakınının bilişim firmaları olduğunu görüyoruz. 
+Günümüzde bilgisayar sektörü en büyük ticari başarıların elde edildiği alanların başında yer alıyor. Dünyanın en zenginlerinin bilgisayarla ilgili işlerden zengin olmuş olmaları da bilgisayarın günümüzdeki önemini gösteriyor. Dünyadaki dudak uçuklatan ticari başarıların yanı sıra ülkemizde de, teknokentlerde bulunan firmaların %80'e yakınının bilişim firmaları olduğunu görüyoruz. 
 
 Bütün bunlar, öğrencilik yıllarında staj yeri ararken, mezun olduğunuzda iş ararken büyük bir avantaj olarak önünüze çıkıyor. Dolayısıyla İyi eğitim almış bilgisayar mühendisinin hem ülkemizde hem de tüm gelişmiş ülkelerde cazip koşullarla iş bulma olasılığı çok yüksek. 
 
