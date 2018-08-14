@@ -7,7 +7,7 @@ published: true
 
 Merhaba, 
 
-MEF Üniversitesi tanıtım günlerinde üniversite tercihi yapma aşamasında pek çok öğrenci ve ailesiyle görüştüm. Bu yazıda, sıkça sorulan soruları dikkate alarak meslek seçimi yapmaya çalışan arkadaşlara yardımcı olmaya çalışacağım.
+MEF Üniversitesi tercih günlerinde üniversite tercihi yapma aşamasında pek çok öğrenci ve ailesiyle görüştüm. Bu yazıda, sıkça sorulan soruları dikkate alarak meslek seçimi yapmaya çalışan arkadaşlara yardımcı olmaya çalışacağım.
 
 ### Neden Bilgisayar Mühendisliği?
 Her şeyden önce Bilgisayar Mühendisliği (BM) kelimenin tam anlamayla çağını yaşayan bir meslek dalı. Hepimizin farkında olduğu gibi bilgisayarın kullanılmadığı alan kalmadı gibi. İş dünyasındaki uygulamalardan, sosyal medyaya, endüstriyel üretimden tarıma, bankacılıktan, iletişim sektörüne kadar hemen her alanda bilgisayar kullanılıyor. 
