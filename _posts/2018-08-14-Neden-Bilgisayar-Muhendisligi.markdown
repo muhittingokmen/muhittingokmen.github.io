@@ -10,13 +10,13 @@ Merhaba,
 MEF Üniversitesi tercih günlerinde üniversite tercihi yapma aşamasında pek çok öğrenci ve ailesiyle görüştüm. Bu yazıda, sıkça sorulan soruları dikkate alarak meslek seçimi yapmaya çalışan arkadaşlara yardımcı olmaya çalışacağım.
 
 ### Neden Bilgisayar Mühendisliği?
-Her şeyden önce Bilgisayar Mühendisliği (BM) kelimenin tam anlamayla çağını yaşayan bir meslek dalı. Hepimizin farkında olduğu gibi bilgisayarın kullanılmadığı alan kalmadı gibi. İş dünyasındaki uygulamalardan, sosyal medyaya, endüstriyel üretimden tarıma, bankacılıktan, iletişim sektörüne kadar hemen her alanda bilgisayar kullanılıyor. 
+Her şeyden önce Bilgisayar Mühendisliği (BM) kelimenin tam anlamıyla çağını yaşayan bir meslek dalı. Hepimizin farkında olduğu gibi bilgisayarın kullanılmadığı alan kalmadı gibi. İş dünyasındaki uygulamalardan, sosyal medyaya, endüstriyel üretimden tarıma, bankacılıktan, iletişim sektörüne kadar hemen her alanda bilgisayar kullanılıyor. 
 
 Tüm bu alanlarda kullanılan yazılımlara ek olarak günlük yaşantımızda elimizden düşürmediğimiz cep telefonlarında kullandığımız uygulamalar bilgisayar mühendisleri tarafından geliştiriliyor.  
 
 Günümüzde bilgisayar sektörü en büyük ticari başarıların elde edildiği alanların başında yer alıyor. Dünyanın en zenginlerinin bilgisayarla ilgili işlerden zengin olmuş olmaları da bilgisayarın günümüzdeki önemini gösteriyor. Dünyadaki dudak uçuklatan ticari başarıların yanı sıra ülkemizde de, teknokentlerde bulunan firmaların %80'e yakınının bilişim firmaları olduğunu görüyoruz. 
 
-Bütün bunlar, öğrencilik yıllarında staj yeri ararken, mezun olduğunuzda iş ararken büyük bir avantaj olarak önünüze çıkıyor. Dolayısıyla İyi eğitim almış bilgisayar mühendisinin hem ülkemizde hem de tüm gelişmiş ülkelerde cazip koşullarla iş bulma olasılığı çok yüksek. 
+Bütün bunlar, öğrencilik yıllarında staj yeri ararken, mezun olduğunuzda iş ararken büyük bir avantaj olarak önünüze çıkıyor. Dolayısıyla iyi eğitim almış bilgisayar mühendisinin hem ülkemizde hem de tüm gelişmiş ülkelerde cazip koşullarla iş bulma olasılığı çok yüksek. 
 
 Bilgisayar mühendisliği tüm dünyada geçerli bir meslek. Mesleki bilgisini, İngilizce ve iletişim becerilerini belli bir seviyeye yükselterek mezun olmuş bir bilgisayar mühendisinin ABD'de Avrupa ülkelerinde oldukça iyi koşullarda iş bulma olasılığı çok yüksek. 
 
