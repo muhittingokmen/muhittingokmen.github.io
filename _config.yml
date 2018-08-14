@@ -23,6 +23,7 @@ github_username:  muhittingokmen
 repository: "muhittingokmen/muhittingokmen.github.io"
 
 google_analytics: "UA-123864618-1"
+post_excerpts: true
 
 # Build settings
 markdown: kramdown
