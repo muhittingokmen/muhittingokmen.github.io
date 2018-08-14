@@ -22,6 +22,8 @@ twitter_username: muhittingokmen
 github_username:  muhittingokmen
 repository: "muhittingokmen/muhittingokmen.github.io"
 
+google_analytics: "UA-123864618-1"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
