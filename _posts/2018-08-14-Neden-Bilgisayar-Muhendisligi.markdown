@@ -2,12 +2,14 @@
 layout: post
 title: Neden Bilgisayar Mühendisliği?
 date: '2018-08-12 22:09:23 -0400'
+excerpt_separator: <!--more-->
 published: true
 ---
 
 Merhaba, 
 
 MEF Üniversitesi tercih günlerinde üniversite tercihi yapma aşamasında pek çok öğrenci ve ailesiyle görüştüm. Bu yazıda, sıkça sorulan soruları dikkate alarak meslek seçimi yapmaya çalışan arkadaşlara yardımcı olmaya çalışacağım.
+<!--more-->
 
 ### Neden Bilgisayar Mühendisliği?
 Her şeyden önce Bilgisayar Mühendisliği (BM) kelimenin tam anlamıyla çağını yaşayan bir meslek dalı. Hepimizin farkında olduğu gibi bilgisayarın kullanılmadığı alan kalmadı gibi. İş dünyasındaki uygulamalardan, sosyal medyaya, endüstriyel üretimden tarıma, bankacılıktan, iletişim sektörüne kadar hemen her alanda bilgisayar kullanılıyor. 
