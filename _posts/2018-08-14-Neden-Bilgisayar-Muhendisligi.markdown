@@ -22,7 +22,7 @@ Bütün bunlar, öğrencilik yıllarında staj yeri ararken, mezun olduğunuzda 
 
 Bilgisayar mühendisliği tüm dünyada geçerli bir meslek. Mesleki bilgisini, İngilizce ve iletişim becerilerini belli bir seviyeye yükselterek mezun olmuş bir bilgisayar mühendisinin ABD'de Avrupa ülkelerinde oldukça iyi koşullarda iş bulma olasılığı çok yüksek. 
 
-Yine bilişim sektöründe, girişimci gençlerin küçük yatırımlarla firmalar kurarak yenilikçi ürünler geliştirip büyük katma değer yaratma olasılıkları diğer sektörlere göre oldukça yüksek. Dünyada ve ülkemizde bunun başarılı örnekleri var. Ülkemizin ekonomik olarak düzlüğe çıkmasında en büyük umut, eğitimli geçlerimizin yüksek katma değer yarattıkları başarılı firma sayısının artırılmasıdır. 
+Yine bilişim sektöründe, girişimci gençlerin küçük yatırımlarla firmalar kurarak yenilikçi ürünler geliştirip büyük katma değer yaratma olasılıkları diğer sektörlere göre oldukça yüksek. Dünyada ve ülkemizde bunun başarılı örnekleri var. Ülkemizin ekonomik olarak düzlüğe çıkmasında en büyük umut, eğitimli gençlerimizin yüksek katma değer yarattıkları başarılı firma sayısının artırılmasıdır. 
 
 ### Ben yapabilir miyim, bana uygun mu?
 Sıkça karşılaştığımız sorulardan biri bu soru. Tamam BM güzel meslek de, ben yapabilir miyim? 
