@@ -14,10 +14,10 @@ Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture a
 ### Current Positions
 
 - **Department Chair**  
-[**MEF University** Department of Computer Engineering](http://www.mef.edu.tr)
+[**MEF University** Department of Computer Engineering](http://comp.mef.edu.tr/en)
 
 - **Director**  
-[**MEF University** Graduate School of Science and Engineering](http://www.mef.edu.tr)
+[**MEF University** Graduate School of Science and Engineering](http://gsse.mef.edu.tr/en)
 
 ### Previous Positions
 
