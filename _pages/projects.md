@@ -23,3 +23,4 @@ permalink: /projects/
 -   İTÜ BAP - Doğrusal olmayan manifold öğrenimi ile yüz tanıma, 2011-2013
 -   TÜBİTAK-TEYDEB, Çok Amaçlı Yüz Tanıma, 2013-2014.
 -   TÜBİTAK 1001 - Yerel Dönüşümlerle Yüz ve Nesne Tanıma, 2013-2015.
+-   ITUNOVA-TTO – Kapalı Mekanlarda Kamera Tabanlı Konum Bulma: 2015-2016
