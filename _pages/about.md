@@ -5,22 +5,25 @@ permalink: /about/
 
 Muhittin Gokmen was born in 1960 in Boyabat, Sinop, the northernmost province of Turkey. He received his BSc degree from Istanbul Technical University’s Faculty of Electrical and Electronics Engineering, Department of Electronics and Communication in 1982. After receiving his MSc degree from the same university in 1984, he moved to Pittsburgh, PA for graduate studies at the University of Pittsburgh on a scholarship from the Turkish Ministry of National Education. He received his second MSc in 1986 and his PhD in 1990 from the University of Pittsburgh, and he worked as Principal Investigator on a DARPA-sponsored research project for one year as a post-doctoral fellow.
 
-Dr. Gokmen returned to Turkey in 1992, and joined the Istanbul Technical University Department of Computer Engineering as Assistant Professor. He became Associate Professor in 1993, and Professor in 1999. Dr. Gokmen served as Dean of the ITU Faculty of Electrical and Electronics Engineering between 2001 and 2004. He subsequently served as Department Chair of ITU’s Department of Computer Engineering, in the newly-established Faculty of Computer and Informatics. In 2004, Dr. Gokmen founded Divit, Digital Video and Image Technologies, the first company established by academics in ITU's ARI Teknokent. Dr. Gokmen joined MEF University in 2014 as the Department Chair for its Department of Computer Engineering, and was subsequently appointed the Director of the Graduate School of Science and Engineering of this university.
+Dr. Gokmen returned to Turkey in 1992, and joined the Istanbul Technical University Department of Computer Engineering as Assistant Professor. He became Associate Professor in 1993, and Professor in 1999. Dr. Gokmen served as Dean of the ITU Faculty of Electrical and Electronics Engineering between 2001 and 2004. He subsequently served as Department Chair of ITU’s Department of Computer Engineering, in the newly-established Faculty of Computer and Informatics. In 2004, Dr. Gokmen founded Divit, Digital Video and Image Technologies, the first company established by academics in ITU's ARI Teknokent. Dr. Gokmen joined MEF University in 2014 as the Department Chair for its Department of Computer Engineering, and was subsequently appointed the Director of the Graduate School of Science and Engineering of this university. Currently He serves as the vice rector for research at MEF University. 
 
 Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture at ITU. He has a son, Cem, born in 1997.
 
 <!--I enjoy all types of art, be it photography, paintings, sculpture, or even filmmaking. In fact, during my stay in Pittsburgh I took a filmmaking course from Pittsburgh Filmmakers. I especially like watching French festival movies. I have a passion of travelling around the world, yet I am very fond of my hometown(s), Boyabat and Istanbul. I swim and windsurf for sports, and go jogging by the Bosporus when I have time. I have a lovely wife, Gülçin – and an awesome son, Cem, who make my life even more beautiful. As a scientist, I see science as the means to a better future, where life is easier and everyone is equal.-->
 
 ### Current Positions
+- **Vice Rector for Research (2025-To Date)**  
+[**MEF University** Department of Computer Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
-- **Department Chair**  
-[**MEF University** Department of Computer Engineering](http://comp.mef.edu.tr/en)
-
-- **Director**  
-[**MEF University** Graduate School of Science and Engineering](http://gsse.mef.edu.tr/en)
+- **Director (2026-To Date)**  
+[**MEF University** Artificial Intelligence Research Center](https://ai.mef.edu.tr/)
 
 ### Previous Positions
+- **Department Chair (2014-2023)**  
+[**MEF University** Department of Computer Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
+- **Director (2025-2023)**  
+[**MEF University** Graduate School of Science and Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
 - **Founding Shareholder**  
 [**Divit** Teknoloji A.Ş:, an R&D Startup](http://www.divit.com.tr)
