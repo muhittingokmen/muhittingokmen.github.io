@@ -1,0 +1,24 @@
+<ul class="post-list">
+  {%- for post in site.posts limit: include.limit -%}
+  <li class="post-item{% if post.youtube_id %} has-video{% endif %}">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- if post.youtube_id -%}
+    <a class="video-thumb" href="https://www.youtube.com/watch?v={{ post.youtube_id }}" target="_blank" rel="noopener" aria-label="Watch on YouTube: {{ post.title | escape }}">
+      <img src="https://img.youtube.com/vi/{{ post.youtube_id }}/hqdefault.jpg" alt="{{ post.title | escape }}" loading="lazy">
+      <span class="play-badge" aria-hidden="true">&#9654;</span>
+    </a>
+    {%- endif -%}
+    <div class="post-body">
+      <span class="post-meta">{{ post.date | date: date_format }}{% if post.location %} &middot; {{ post.location | escape }}{% endif %}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt | strip_html }}
+      {%- endif -%}
+    </div>
+  </li>
+  {%- endfor -%}
+</ul>
