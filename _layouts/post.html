@@ -10,13 +10,24 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+      {%- if page.location -%}
+        &middot; <span class="post-location">{{ page.location | escape }}</span>
+      {%- endif -%}
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.youtube_id -%}
+    <div class="video-embed">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}" title="{{ page.title | escape }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+    </div>
+    {%- endif -%}
     {{ content }}
+    {%- if page.youtube_id -%}
+    <p class="video-source"><a href="https://www.youtube.com/watch?v={{ page.youtube_id }}" target="_blank" rel="noopener">Watch on YouTube</a>{% if page.source %} &middot; {{ page.source | escape }}{% endif %}</p>
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}

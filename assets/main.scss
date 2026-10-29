@@ -3,3 +3,57 @@
 ---
 
 @import "minima";
+
+/* Video posts */
+.post-list > li.has-video {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+.video-thumb {
+  position: relative;
+  flex: 0 0 220px;
+  display: block;
+  border-radius: 6px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background: #111;
+}
+.video-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .2s ease;
+}
+.video-thumb:hover img { transform: scale(1.04); }
+.play-badge {
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  width: 46px; height: 32px;
+  border-radius: 8px;
+  background: rgba(204, 0, 0, .9);
+  color: #fff;
+  font-size: 14px;
+  line-height: 32px;
+  text-align: center;
+}
+.post-body { flex: 1; min-width: 0; }
+.post-body h3 { margin-bottom: 6px; }
+.video-embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 20px;
+}
+.video-embed iframe {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  border: 0;
+  border-radius: 6px;
+}
+.video-source { font-size: 14px; color: #828282; }
+@media (max-width: 600px) {
+  .post-list > li.has-video { flex-direction: column; }
+  .video-thumb { flex-basis: auto; width: 100%; }
+}
