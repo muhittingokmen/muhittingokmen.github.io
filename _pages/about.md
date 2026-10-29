@@ -16,14 +16,14 @@ Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture a
 [**MEF University**](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
 - **Director (2026-To Date)**  
-[**MEF University** Artificial Intelligence Research Center](https://ai.mef.edu.tr/)
+[**MEF University** - Artificial Intelligence Research Center](https://ai.mef.edu.tr/)
 
 ### Previous Positions
 - **Department Chair (2014-2023)**  
-[**MEF University** Department of Computer Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
+[**MEF University** - Department of Computer Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
 - **Director (2025-2023)**  
-[**MEF University** Graduate School of Science and Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
+[**MEF University** - Graduate School of Science and Engineering](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
 - **Founding Shareholder**  
 [**Divit** Teknoloji A.Ş:, an R&D Startup](http://www.divit.com.tr)
@@ -32,16 +32,16 @@ Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture a
 [**Divit** Digital Image and Video Technologies, an R&D Startup](http://www.divit.com.tr)
 
 - **Dean (2001 - 2004)**  
-[**Istanbul Technical University** Faculty of Electrical and Electronics Engineering](http://www.itu.edu.tr)
+[**Istanbul Technical University** - Faculty of Electrical and Electronics Engineering](http://www.itu.edu.tr)
 
 - **Department Chair (2009 - 2011)**  
-[**Istanbul Technical University** Department of Computer Engineering](http://www.itu.edu.tr)
+[**Istanbul Technical University** - Department of Computer Engineering](http://www.itu.edu.tr)
 
 - **Conference Chair**  
-**ISCIS 2008**, the 23rd International Symposium on Computer and Information Sciences
+**ISCIS 2008**, - The 23rd International Symposium on Computer and Information Sciences
 
 - **Associate Editor**  
-**Machine Vision and Applications International Journal**, Springer
+**Machine Vision and Applications International Journal**, - Springer
 
 ### Education
 
