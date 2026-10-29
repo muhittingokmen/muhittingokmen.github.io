@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-My research is in computer vision and pattern recognition. After many years on face recognition and person re-identification, I now work on behaviour analysis from video.
+My research is in computer vision and artificial intelligence. After many years on face recognition and person re-identification, I now work on behaviour analysis from video.
 
 #### Current Focus
 
@@ -15,6 +15,7 @@ My research is in computer vision and pattern recognition. After many years on f
 
 -   Image Processing
 -   Computer Vision
+-   Artificial Intelligence
 -   Pattern Recognition
 -   Multimedia
 
