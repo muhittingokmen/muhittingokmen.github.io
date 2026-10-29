@@ -4,13 +4,18 @@ main:
     href: /about/
   - title: "Research"
     href: /research/
+  - title: "Publications"
+    href: /publications/
   - title: "Projects"
-    href: /projects/  
+    href: /projects/
   - title: "Patents"
     href: /patents/
   - title: "Courses"
-    href: "/courses/"
+    href: /courses/
   - title: "Students"
     href: /students/
   - title: "Posts"
     href: /posts/
+  - title: "CV"
+    href: /assets/gokmen-CV.pdf
+    highlight: true

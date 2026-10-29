@@ -1,0 +1,247 @@
+---
+title: Publications
+permalink: /publications/
+---
+
+#### [Visit Google Scholar for up-to-date information on my publications](https://scholar.google.com/citations?user=vX0c2WEAAAAJ)
+
+### Journal Papers
+
+1.  C. C. Li, M. Gökmen, A. D. Hirschman and Y. Wang, "Information Preserving Image Compression for Archiving NMR Images," Computerized Medical Imaging and Graphics, vol.15, pp. 277-283, 1991.
+2.  M. Gökmen and R. W. Hall, "Parallel Shrinking Algorithms Using 2-Subfields Approaches," Computer Vision, Graphics and Image Processing, vol. 52, 1990, pp. 191-209.
+3.  M. Gökmen and C. C. Li, "Edge Detection and Surface Reconstruction Using Refined Regularization," IEEE Trans. Pattern Analysis and Machine Intelligence, vol.15, No.5, 1993, pp.492-499.
+4.  M.Gökmen, A.K. Jain, "λτ-Space Representation of Images and Generalized Edge Detection," IEEE Trans.on Pattern Analysis and Machine Intelligence, vol.19, No. 6, June 1997, pp.545-563.
+5.  A.Gültekin and M. Gökmen," Adaptive Shape from Shading," Turkish Journal of ELEKTRİK vol. 6, No. 2, 1998, pp. 61-73.
+6.  A.Yılmaz and M.Gökmen, "Eigenhills vs Eigenface and Eigenedge," Pattern Recognition, vol. 34, 2001, pp. 181-184.
+7.  F. Kahraman, M. Gokmen, “Face recognition with the use of principal component analysis based on artificial neural networks,” PERCEPTION 31: 139-139 Suppl. S 2002
+8.  A. Capar, B.Kurt, M.Gokmen, “Affine-Invariant Gradient Based Shape Descriptor”, Machine Vision & Applications, vol.20,No:6,365-378, 2009,
+9.  F. Kahraman, M. Gökmen,"Active Illumination and Appearance Model for Face Alignment,", Turkish Journal Elec Eng & Comp Sci, Vol.18, No.4, 2010, pp.677-691.
+10. B. Tunç, M.Gökmen,"Manifold Learning for Face Recognition Under Changing Illumination," Telecommunication Systems, Special Issue on Face Recognition, Vol.47, Iss.3-4, pp.185, 2011, ISSN: 10184864,
+11. B.Tunc, V.Dağlı, M.Gökmen, “Class Dependent Factor Analysis and Its Application to Face Recognition”, Pattern Recognition 45, 2012, pp.4092-4102,
+12. A. Akyol, M.Gokmen,” Super-Resolution Reconstruction of Faces by Enhanced Global Models of Shape and Texture,” Pattern Recognition, Pattern Recognition 45, 2012, pp.4103-4116,
+13. M. Uzun-Per, M. Gokmen,"Face recognition with Patch-based Local Walsh Transform," Signal Processing: Image Communication 61, 2018, pp.85-96,
+14. E Basaran, M Gökmen, ME Kamasak, "An Efficient Multiscale Scheme Using Local Zernike Moments for Face Recognition," Applied Sciences 8 (5), 2018, p.827,
+15. E Basaran, M Gökmen, ME Kamasak, “An efficient framework for visible-infrared cross modality person re-identification”, Signal Processing: Image Communication, 2020, 87,115933
+
+### LNCS papers
+
+1.  F.Kahraman, B. Kurt, M. Gökmen, “License Plate Character Segmentation Based on the Gabor Transform and Vector Quantization” Lecture Notes on Computer Science LNCS, Springer-Verlag, November 2003. pp 382-388.
+2.  A. Çapar, K. Taşdemir, Ö.Kılıç, M. Gökmen "A Turkish Handprint Character Recognition System" Lecture Notes on Computer Science (LNCS) , Springer-Verlag, November 2003, pp. 447-456.
+3.  I.K. Yalcin, M. Gökmen,” License plate tracking from monocular camera view by condensation algorithm,” Lecture Notes on Computer Science (LNCS-3645), Springer-Verlag, 2005. pp.860-869.
+4.  F. Kahraman, M. Gökmen, Illumination Invariant Face Allignment Using Multi-band Active Appearance Model., Lecture Notes on Computer Science (LNCS 3776) , Springer-Verlag, December 2005, pp. 118-127.
+5.  A. Çapar, B. Kurt, M. Gökmen, "Affine-Invariant Gradient Based Shape Descriptor," Lecture Notes in Computer Science, International Workshop on Multimedia Content Representation, Classification and Security, pp. 514-521, 2006.
+
+### International Conference Papers
+
+-   #### 1989
+
+    6.  C.C. Li, M. Gökmen, A. D. Hirschman and Y. Wang, "Information Preserving Image Compression for Archiving NMR Images," Proc. of 9th International Conf. on Pattern Recognition, Rome, Italy, 1989, pp. 1295-1299
+-   #### 1990
+
+    7.  M.Gökmen and C. C. Li, "Edge Detection with Iteratively Refined Regularization," Proc. of 10th International Conf. on Pattern Recognition, Atlantic City, U.S.A., June 1990, pp. 690-693.
+    8.  M.Gökmen, "A Comparison of Edge Detection Algorithms Based on Gaussian Filtering and Iteratively Refined Regularization," Proc. of Bilkent International Conf. on New Trends in Communication, Control and Signal Processing, Ankara, Turkey, July 1990, pp. 1370-1377.
+-   #### 1991
+
+    9.  M.Gökmen and C. C. Li, "Edge Detection Using Refined Regularization," Proc. of IEEE Computer Vision and Pattern Recognition Conference, Maui, Hawaii, June 3-6, 1991, pp. 215-221.
+-   #### 1992
+
+    10.  M.Gökmen and C. C. Li, "Multiscale Edge Detection Using First Order R-Filter" Proc. of Int. Conf. on Pattern Recognition ICPR92, The Hague, The Netherlands, August 1992, pp. 307-310.
+-   #### 1994
+
+    11.  T.Acar ve M. Gökmen, "Image Coding Using Weak Membrane model of images," Proc. of Visual Communications and Image Processing'94, 25-29 September 1994, Chicago, USA, pp. 1221-1230.
+-   #### 1995
+
+    12.  M.Gökmen and T.Acar," Multiscale Edge Integration by Weighted Accumulation, Proc. of the Tenth International Symposium on Computer and Information Sciences (ISCIS X), Vol.1, Oct.30-Nov.1, 1995, Kusadasi Turkey, pp. 111-118.
+    13.  N.Ratha, T. Acar, M. Gökmen, A.K. Jain, "A Distributed Edge Detection and Surface Reconstruction Algorithm, "Proc. Computer Architecture for Machine Perception, CAMP'95, Italy, 1995, pp. 149-154
+-   #### 1996
+
+    14.  M.Gökmen, A.K. Jain, "l-t Space Representation of Images and Generalized Edge Detection," Proc. IEEE conf. on Computer Vision and Pattern Recognition CVPR96, San Francisco, USA, 1996, pp. 764-769.
+    15.  M. Gökmen, İ. Ersoy, A. K. Jain, “Compression of fingerprint images using hybrid image model”, Proc. IEEE Intl. Conf. On Image Proc. ICIP’96, Vol.III, pp.395-398, 1996.
+    16.  A.Gültekin and M. Gökmen," Adaptive Shape from Shading," Proc. of the Eleventh International Symposium on Computer and Information Sciences (ISCIS XI), Antalya, Turkey, November 6-8, 1996, pp83-92.
+-   #### 1997
+
+    17.  B.Kurt, M.Gökmen and A.K. Jain, "Image Compression Based On Centipede Model," Proc. Of Int. Conf. on Image Analysis and Processing (ICIAP'97), Florence Italy, September 1997, Vol.I, pp.303-310.
+-   #### 1999
+
+    18.  B.Kurt, M.Gökmen,"Two Dimensional Generalized Edge Detector," to appear in Proc. Of the 10th International Conference on Image Analysis and Processing, (ICIAP'99) , Venice Italy, September 1999.
+-   #### 2000
+
+    19.  A.Yılmaz and M. Gökmen, "Eigenhill vs. Eigenface and Eigenedge," Proc. of Int. Conf. On Pattern Recognition, ICPR'2000, Barcelone Spain, Sept. 2000.
+-   #### 2002
+
+    20.  F. Kahraman, M. Gökmen, “Face Recognition With The Use of Principal Component Analysis Based On Artificial Neural Networks.” 25th European Conference on Visual Perception, Glasgow, 2002.
+-   #### 2003
+
+    21.  E. Çayırcı, M. Gökmen, S. Oktuğ, T. Ayar, G. Cebiroğlu, Eryiğit, T. Çöplü, E.Okçu, İ. Akgün, “A Graphical Interface and a Data Filtering Scheme for Joint Theather Level Simulation”, MSG-022 C3I and M&S Interoperability Conference, NATO Modelling and Simulation Co-Ordination Office (NMSCO), Antalya, 2003
+    22.  A.Çapar, K.Taşdemir, Ö.Kılıç, M.Gökmen "A Turkish Handprint Character Recognition System" 18th International Symposium on Computer and Information Sciences (ISCIS'03), Antalya TURKEY, 2003
+-   #### 2004
+
+    23.  S. Şener, H. Demirel, M. Gökmen, An Adaptive Modulation Technique for Spread Spectrum Video Watermarking, IASTED-SIP2004
+-   #### 2005
+
+    24.  Sirin T., Saglam M.I., Erer I., Gokmen M., Edge Detection in Images Using Clustering Algorithms, WSEAS TeleInfo 2005, Prague, Czech Republic, March 13-15, 2005.
+    25.  Sirin T., Saglam M.I., Erer I., Gokmen M., Ersoy O., Edge Detection in Multispectral Remote Sensing Image, RAST 2005, İstanbul, Turkey, June 09-11, 2005.
+    26.  Sirin T., Saglam M.I., Erer I., Gokmen M., Ersoy O., A Comparative Evaluation of Competitive Learning Algorithms for Edge Detection Enhancement?, EUSIPCO2005, Antalya,Turkey, September 4-8, 2005
+-   #### 2006
+
+    27.  Çapar, M. Gökmen, "Concurrent Segmentation and Recognition with Shape-Driven Fast Marching Methods", International Conference on Pattern Recognition ICPR'06, Hong Kong, 2006.
+    28.  İ.K Yalçın ., M. Gökmen, "Integrating Differential Evolution and Condensation Algorithms for License Plate Tracking", International Conference on Pattern Recognition ICPR'06, Hong Kong, 2006.
+    29.  F. Kahraman, M. Gökmen, “Illumination Invariant Three-Stage Approach For Face Alignment”, accepted to 13th International Conference on Image Processing (ICIP 2006), 08-11 October, 2006, Atlanta, USA.
+    30.  Emre Bertan, Muhittin Gökmen, Guillaume Moreau, Automatic 3D Roof Reconstruction using Digital Cadastral Map, Architectural Knowledge and an Aerial Image, IEEE Interntional Geosicence & Remote Sensing Symposium IGARSS'06, Denver Colorada, USA, 31-July-04 August 2006,
+    31.  Mahmut Meral, Muhittin Gökmen, Isolated word Recognition on Embedded System, WSEAS, Hangzhou, China, April 16-18, 2006.
+-   #### 2007
+
+    32.  F. Kahraman, M. Gokmen, S. Darkner, R. Larsen, An Active Illumination and Appearance (AIA) Model for Face Alignment, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2007), IEEE Computer Society Workshop on Biometrics, Minneapolis, Minnesota, USA, 2007. [pdf]
+    33.  F. Kahraman, B. Kurt, M. Gokmen, Robust Face Alignment For Illumination and Pose Invariant Face Recognition, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2007), IEEE Computer Society Workshop on Biometrics, Minneapolis, Minnesota, USA, 2007. [pdf]
+-   #### 2008
+
+    34.  Kurt, Binnur; Gokmen, Muhittin; Goal oriented edge detection Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium on 27-29 Oct. 2008 Page(s):1 – 5
+    35.  Kirtac, Kadir; Dolu, Onur; Gokmen, Muhittin; Face recognition by combining Gabor wavelets and nearest neighbor discriminant analysis, Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium on 27-29 Oct. 2008 Page(s):1 – 5
+    36.  Kahraman, Fatih; Mendi, C. Deniz; Gokmen, Muhittin;, Image frame fusion using 3D anisotropic diffusion, Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium on, 27-29 Oct. 2008 Page(s):1 – 6
+    37.  Bayhan, Mehmet Serif; Gokmen, Muhittin; Scale and pose invariant real-time face detection and tracking, Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium on 27-29 Oct. 2008 Page(s):1 – 6
+    38.  Akyol, Aydin; Gokmen, Muhittin; Subspace representation of registration and reconstruction in multi-frame Super-Resolution, Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium on 27-29 Oct. 2008 Page(s):1 – 6
+    39.  Kus, Merve Can; Gokmen, Muhittin; Etaner-Uyar, Sima;, Traffic sign recognition using Scale Invariant Feature Transform and color classification, Computer and Information Sciences, 2008. ISCIS '08. 23rd International Symposium on 27-29 Oct. 2008 Page(s):1 – 6
+    40.  Baris D. Ekinci, M. Gökmen, A Ball tracking System for Offline Tennis Videos, Proc. of The 1st WSEAS Int. Conf. on VISUALIZATION, IMAGING and SIMULATION (VIS'08), Bucharest, Romania, November 7-9, 2008,
+    41.  G. Jun, J. K. Aggarwal, and M. Gokmen. Tracking and segmentation of highway vehicles in cluttered and crowded scenes. IEEE Workshops on Applications of Comp. Vision (WACV), 2008.
+-   #### 2009
+
+    42.  B.Tunc,S.K. Zhou, J. Park, M. Gökmen, Context Ranking Machine and its application to to Rogid Localization of Deformable Objects, IEEE International Conference on Image Processing ICIP 2009, Cairo Egypt, Nov.7-10 2009,
+-   #### 2010
+
+    43.  E. Dule, M.Gökmen, M.S. Beratoglu, A convenient feature vector construction for vehicle color recognition, Proc. Of the 11th WSEAS Int. Conf. evolutionary computing and 11th WSEAS international conference on Fuzzy systems, Wisconsin, USA, 2010, pp.978-960-474-195-3
+-   #### 2011
+
+    44.  B. Tunc, V.Daglı, M. Gökmen, Robust Face Recognition with class dependent factor analysis,” Int. Conf. On Biometrics (IJCB), 2011, 11-13 Oct 2012, pp 1-6
+    45.  A. Akyol, M.Gökmen, “Face Super Resolution in Reduced Spaces by Using Shape and Texture,” MVA2011 IAPR Conference on Machine Vision Applications, June 13-15, 2011, Nara, JAPAN 14-6 438
+    46.  A. Akyol, M.Gökmen,” Efficient face hallucination by using shape and texture dependency. ICIP 2011: 1129-1132.
+-   #### 2012
+
+    47.  E. Sarıyanidi, Volkan Dağlı, Salih Cihan Tek, Birkan Tunç, Muhittin Gökmen, “Local Zernike Moments: A New Representation For Face Recognition, Proc. Int. Conf. On Image Processing, ICIP2012, Orlando, USA
+    48.  E. Sarıyanidi, B. Tunç, M. Gökmen, LZM in action: realtime face recognition system, Computer Vision–ECCV 2012. Workshops and Demonstrations, 2012
+    49.  SC Tek, M Gökmen, GPU Accelerated Real-time Object Detection on High Resolution Videos using Modified Census Transform. Int. Conf. On Computer Vision Theory and Application, VISAPP (1), 685-688, 2012.
+-   #### 2013
+
+    50.  E Sariyanidi, H Gunes, M Gökmen, A Cavallaro, Local Zernike moment representations for facial affect recognition Proc. of British Machine Vision Conf, 2013.
+-   #### 2014
+
+    51.  G Özbulak, M Gökmen, A rotation invariant local Zernike moment based interest point detector, Seventh International Conference on Machine Vision (ICMV) 2014.
+    52.  M Uzun-Per, M Gokmen, Face recognition with a novel image representation: Local Walsh-Hadamard Transform, Visual Information Processing (EUVIP), ≈ 5th European Workshop on, 1-6æ, 2014
+    53.  Tolga Alasag, Muhittin Gokmen, Face Recognition in Low-resolution Images by Using Local Zernike Moments, Proceedings of the International Conference on Machine Vision and Machine Learning Prague, Czech Republic, August14-15, 2014
+-   #### 2015
+
+    54.  Özbulak G., Gökmen M. (2015). Robust Interest Point Detection by Local Zernike Moments. 10th International Conference on Computer Vision Theory and Applications (VISAPP), March 11-14, Berlin, Germany.
+
+-   #### 2017
+    55. B.S.A. Gazioğlu, M. Gökmen, Facial expression recognition from still images, Int. Conf. on Augmented Cognition, 413-428, 2017
+
+-   #### 2018
+    56.  M.M. Kalayeh, E. Basaran, M. Gökmen, M.E. Kamasak, M. Shah, “Human semantic parsing for person re-identification,” Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR),  pp. 1062-1071, 2018
+
+-   #### 2024
+    57. M Gokmen, E Sariyanidi, L Yankowitz, CJ Zampella, RT Schultz, B Tunç,
+“Detecting Autism from Head Movements using Kinesics”, in Internatıonal Conference on Multimodal Interaction (ICMI ’24), November 04–08, 2024, San Jose, Costa Rica. ACM, New York, NY, USA, 5 pages.https://doi.org/10.1145/3678957.368571, 2024. 
+    
+### Books
+
+1.  M.Gökmen, Edge Detection Using Regularization Theory, UMI-Bell&Howell Information Company, Ann Arbor Michigan, 1990, (Order Number 9120468) (PhD Thesis)
+
+### National Conference Papers (in Turkish)
+
+-   #### 1993
+
+    1.  T.Acar ve M. Gökmen, "Uyarlanır Düzleme ve Yırtılabilir Zar Modelinin Ayrıt Saptama Açısından Karşılaştırılması," 1. Sinyal İşleme ve Uygulamaları Kurultayı,İstanbul, 21-22 Nisan 1993, pp. 111-116.
+    2.  N.Apak ve M. Gökmen, "Sayısal Hücre Resimlerinin Nicel Analizi ve Kodlanması," 1. Sinyal Işleme ve Uygulamaları Kurultayı , Istanbul, 21-22 Nisan 1993, pp. 117-122.
+    3.  T.Acar ve M. Gökmen, "Yırtılabilir Zar Modeliyle Resim Onarımı," 5. Elektrik Mühendisleri Odası Konferansı, KTÜ Trabzon, 13-18 Eylül, 1993, pp.247-252.
+-   #### 1994
+
+    5.  A.Gençata ve M. Gökmen, "Zar ve Levha Modellerinden oluşan Karma Model Yardımıyla Yüzey Kurma ve Ayrıt Saptama," 2. Sinyal Işleme ve Uygulamaları Kurultayı, Gökova Muğla, 8-9 Nisan, 1994, pp.1-6.
+    6.  T.Acar ve M. Gökmen, "Ağırlıklı Toplama Yöntemiyle Çok Ölçekli Ayrıt Birleştirme," 2. Sinyal Işleme ve Uygulamaları Kurultayı, Gökova Muğla, 8-9 Nisan, 1994, pp. 65-70.
+    7.  A.Gültekin ve M. Gökmen, "Görüntü Tonlarından Şekil Elde Etme," 2. Sinyal İşleme ve Uygulamaları Kurultayı, Gökova Muğla, 8-9 Nisan, 1994, pp. 71-76.
+    8.  C. K. Sandalcı ve M. Gökmen, "Parmakizi Görüntülerinin Sınıflandırılması," 2. Sinyal Işleme ve Uygulamaları Kurultayı, Gökova Muğla, 8-9 Nisan, 1994, pp. 134-139.
+-   #### 1995
+    9. M. Gökmen, "l-t Uzayında Görüntü Gösterilimi ve Genelleştirilmiş Ayrıt Saptayıcı," 3. Sinyal İşleme ve Uygulamaları Kurultayı, A:Görüntü İşleme , Kapadokya Nevşehir, 26-28 Nisan, 1995, pp. 19-24.
+    10.  Ö.Doğan ve M. Gökmen, "Hızlı çokgen Yaklaşımı ile Yapay Sinir Ağı Temelli Nesne Tanıma," 3. Sinyal İşleme ve Uygulamalar Kurultayı , A: Görüntü İşleme, Kapadokya Nevşehir, 26-28 Nisan, 1995, pp. 99-104.
+    11.  A.Gençata, T. Acar ve M. Gökmen, "Yırtılabilir Zar Modeliyle Görüntü Sıkıştırma," 3. Sinyal İşleme ve Uygulamalar Kurultayı, A: Görüntü İşleme, Kapadokya Nevsehir, 26-28 Nisan, 1995, pp. 117-122.
+    12.  B.Çınarkaya, A.G.Erkman ve M. Gökmen, " Sözdizimsel Yöntemle Görüntü Tanıma," 3. Sinyal İşleme ve Uygulamaları Kurultayı, A: Görüntü İşleme, Kapadokya Nevşehir, 26-28 Nisan, 1995, pp. 193-197.
+-   #### 1996
+
+    13.  I.Atalay ve M. Gökmen, "Özyüz yöntemiyle yüz tanıma," 4. Sinyal Işleme ve Uygulamaları Kurultayı, Kemer Antalya, 1996, pp. 151-156.
+-   #### 1997
+
+    14.  B.Kurt ve M.Gökmen, "Kırkayak Modeline Dayalı Görüntü Sıkıştırma," 5. Sinyal Işleme ve Uygulamaları Kurultayı, Kuşadası İzmir, 1-3 Mayıs 1997, vol.1, pp. 307-312.
+-   #### 1998
+
+    15.  B.Kurt, T. Demiral ve M.Gökmen, "Ayrıta Dayalı Etkin Bir Görüntü Gösterimi," 6. Sinyal Işleme ve Uygulamaları Kurultayı, Kızılcahamam Ankara, 1998, vol.1, pp. 259-264.
+-   #### 1999
+
+    16.  B.Kurt ve M.Gökmen,"İki Boyutlu Genelleştirilmiş Ayrıt Saptayıcı," 7. Sinyal Işleme ve Uygulamaları Kurultayı, Hotel Bilkent Ankara, 16-19 Haziran 1999.
+    17.  A.Yılmaz ve M.Gökmen,"Öztepeler yöntemi ile Yüz Tanıma," 7. Sinyal Işleme ve Uygulamaları Kurultayı, Hotel Bilkent Ankara, 16-19 Haziran 1999.
+    18.  T.Demiral ve M.Gökmen, "Benek ve Geometri Benzerliği Kullanılarak Aşamalı Çevrit Eşleme," 7. Sinyal Işleme ve Uygulamaları Kurultayı, Hotel Bilkent Ankara, 16-19 Haziran 1999.
+-   #### 2000
+
+    19.  A.Yılmaz ve M.Gökmen,"Yüz Tanıma Algoritmalarına Yönelik Aydınlanma Analizi," 8. Sinyal Işleme ve Uygulamaları Kurultayı,Belek Antalya, 12-14 Haziran 2000, pp. 118-121.
+    20.  B.Kurt ve M.Gökmen,"Sahne Değişiminin Geometri Tabanlı Olarak Saptanması," 8. Sinyal Işleme ve Uygulamaları Kurultayı,Belek Antalya, 12-14 Haziran 2000, pp. 512-517.
+    21.  Z. Erdem, F.Kurugöllü, M.Gökmen, "Genelleştirilmiş Ayrıt Saptayıcının Ardışıl Olarak Gerçeklemesi", 8. Sinyal Işleme ve Uygulamaları Kurultayı,Belek Antalya, 12-14 Haziran 2000, pp. 45-50.
+-   #### 2002
+
+    22.  A. Çapar, Ö.Kılıç, K. Taşdemir, M. S. Beratoğlu, M.Gökmen "Elyazısı Tanıma Sistemlerinde Öznitelik Çıkarma Ve Sınıflandırma Yöntemlerinin Karşılaştırması" URSI TÜRKİYE 2002, Sayfa 210-213.
+-   #### 2003
+
+    23.  A. Çapar, M. S. Beratoğlu, K.Taşdemir, Ö.Kılıç, M.Gökmen, "İTÜ Araç Plaka Tanıma Sistemi", 11. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU) 2003 İstanbul, Sayfa 371-374.
+    24.  M.S. Beratoğlu, M. Gökmen “ITU VIP – Görsel Görüntü İşleme Ortamı”, 11. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU) İstanbul 2003, Sayfa. 371-374.
+    25.  F. Kahraman, M. Gökmen, “Gabor Süzgeçler Kullanılarak Taşıt Plakalarının Yerinin Saptanması” 11. sinyal İşleme ve İletişim Uygulamaları Kurultayı, Istanbul 2003.
+-   #### 2004
+
+    26.  A. Çapar, A. Ayvacı, F.Kahraman, H.Demirel, M. Gökmen "El Yazısı Tanıma Sistemlerinde Doğrusal Boyut İndirgeme Yöntemleri" IEEE 12. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU) 2004, Kuşadası pp. 611-615
+    27.  F. Kahraman, A.Çapar, A.Ayvacı, H.Demirel, M.Gökmen "Elyazısı Verileri Üzerinde YSA ve DVM’ nin Sınıflandırma Başarımlarının Karşılaştırılması" IEEE 12. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU) 2004, Kuşadası pp. 615-619
+    28.  A.Çapar, A.Ayvacı, F. Kahraman, H. Demirel, M. Gökmen, El Yazısı Tanıma Sistemlerinde Doğrusal Boyut İndirgeme Yöntemleri, , SİU 2004 Konferans Kitabı, Kuşadası.
+    29.  H. Demirel, S. Şener, M. Gökmen Geliştirilmiş Yayılı İzge Yöntemi ile Video Damgalama, SIU 2004, Kuşadası.
+-   #### 2005
+
+    30.  Çapar, M. Gökmen, Öz-Uzay Dağılım Enerjili Markov Rasgele Alanlarıyla Nesne Yeri Saptama, IEEE 13. Sinyal İşleme ve İletişim Uygulamaları Kurultayı, 16-18 Mayıs 2005, Kayseri
+    31.  F.Kahraman, M.Gökmen, Aktif Görünüm Model Temelli Yüz Tanıma, IEEE 13. Sinyal İşleme ve İletişim Uygulamaları Kurultayı, 16-18 Mayıs 2005, Kayseri
+    32.  F.Kahraman, M.Gökmen Bakış Açısından Bağımsız Gürbüz Plaka Tanıma Sistemi, IEEE 13. Sinyal İşleme ve İletişim Uygulamaları Kurultayı, 16-18 Mayıs 2005, Kayseri
+-   #### 2006
+
+    33.  F.Kahraman, M.Gökmen, Işıktan Bağımsız ve Bileşen Temelli Yüz Hizalama Yaklaşımı, IEEE 14. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU’06), Belek, Antalya, 17-19 Nisan 2006
+    34.  F.Kahraman, B. Kurt, M.Gökmen, Seçkin Ayrıtlar Kullanılarak Üç-Bant Modelleme ile Yüz Hizalama, IEEE 14. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU’06), Belek, Antalya, 17-19 Nisan 2006.
+    35.  A.Çapar, M.Gökmen, Şekil Tabanlı Hızlı Yürüme Yöntemi ile Nesne Bölütleme ve Tanıma, IEEE 14. Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SİU’06), Belek, Antalya, 17-19 Nisan 2006
+-   #### 2007
+
+    36.  Binnur Kurt, Abdulkerim Capar,Muhittin Gokmen, Affine Invariant Shape Descriptors; Signal Processing and Communications Applications, 2007. SIU 2007. IEEE 15th, 11-13 June 2007 Page(s):1 – 4
+    37.  Erdem Guneş, Muhittin Gokmen, Gabor Filters Based Segmentation For Monaural Sound Segregation, Signal Processing and Communications Applications, 2007. SIU 2007. IEEE 15th, 11-13 June 2007 Page(s):1 – 4
+-   #### 2008
+
+    38.  Binnur Kurt, Muhittin Gokmen, Amaca Yönelik Ayrıt Saptama, Signal Processing and Communications Applications, 2008. SIU 2008. IEEE 16th, 20-22 Nisan 2008 Page(s):1 – 4
+-   #### 2010
+
+    39.  B. Tunç, M. Gökmen, Çok kipli altuzay Yaklaşımı ile Yüz Tanıma, Signal Processing and Communications Applications, 2010 SIU 2010 IEEE 18th 22-24 Nisan 2010. Pp.391-394
+    40.  M. Kaplan, M. Gökmen, Yüksek Başarımlı Otomatik Trafik Denetim Sistemi, Signal Processing and Communications Applications, 2010 SIU 2010 IEEE 18th 22-24 Nisan 2010.
+-   #### 2011
+
+    41.  Evangelos Sarıyanidi, Salih Cihan Tek and Muhittin Gökmen, "Seyrek örnekleme Yöntemiyle Etkin Yüz Saptama", in Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU) 2011, in Antalya, April 2011 http://www.cvip.itu.edu.tr/media/3057536.pdf
+    42.  Birkan Tunç, Volkan Dağlı and Muhittin Gökmen, "Sınıfa özel Etmen çözümlemesiyle Nesne Tanıma", in Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU) 2011, in Antalya, April 2011 http://www.cvip.itu.edu.tr/media/1776252.pdf
+    43.  Mahmut Meral, M. Gökmen" lambda tau uzayında yüz tanıma,” in Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU) 2011, in Antalya, April 2011 http://www.cvip.itu.edu.tr/media/1776252.pdf
+-   #### 2012
+
+    44.  Evangelos Sarıyanidi, Volkan Dağlı, Salih Cihan Tek, Birkan Tunç, Muhittin Gökmen, “Yüz Tanıma için yeni bir görüntü gösterimi:Yerel Zernike Momentleri,” Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU) Fethiye Muğla, Nisan 2012.
+-   #### 2013
+
+    45.  E Basaran, M Gokmen, Traffic sign classification with Quantized Local Zernike Moments, Signal Processing and Communications Applications Conference (SIU), 2013 ,
+    46.  BS Akkoca, M Gokmen, Facial expression recognition using Local Zernike Moments, Signal Processing and Communications Applications Conference (SIU), 2013
+-   #### 2014
+
+    47.  SE Kahraman, M Gokmen, Face pair matching with Local Zernike Moments and L2-Norm metric learning, Signal Processing and Communications Applications Conference (SIU), 2014.
+    48.  E Basaran, M Gokmen, A novel face recognition method based on Local Zernike Moments, Signal Processing and Communications Applications Conference (SIU), 2014.
+    49.  BS Coban, M Gokmen, Gender classification with Local Zernike Moments and local binary patterns, Signal Processing and Communications Applications Conference (SIU), 2014.
+    50.  BS Akkoca, M Gokmen, Facial expression recognition from static images, Signal Processing and Communications Applications Conference (SIU), 2014
+       
+-   #### 2015
+
+    51.  BS Akkoca, M Gokmen, Automatic smile recognition from face images, Signal Processing and Communications Applications Conference (SIU), 2015 ...
+    52.  M Uzun-Per, M Gokmen, Face recognition with Local Walsh-Hadamard Transform around landmarks, Signal Processing and Communications Applications Conference (SIU), 2015 ...
+    53.  G Ozbulak, M Gokmen, Corner detection by Local Zernike Moments, Signal Processing and Communications Applications Conference (SIU), 2015 ...
+    54.  G Vural, M Gokmen, Facial feature detection using Conditional Regression Forests, Signal Processing and Communications Applications Conference (SIU), 2015 ...
+
+    
+

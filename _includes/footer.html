@@ -1,31 +1,17 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-5">
-        {%- include social.html -%}
-      </div>
+<footer class="site-footer">
+  <div class="wrapper footer-inner">
+    <div class="footer-col-a">
+      <span class="footer-name">Prof. Dr. Muhittin Gökmen</span>
+      <span>Department of Computer Engineering, MEF University, Istanbul</span>
     </div>
-
+    <div class="footer-col-b">
+      <span>{{ site.email }}</span>
+      <span class="footer-links">
+        <a href="https://scholar.google.com/citations?user=vX0c2WEAAAAJ">Google Scholar</a> ·
+        <a href="https://orcid.org/0000-0001-7290-199X">ORCID</a> ·
+        <a href="https://www.linkedin.com/in/muhittin-g%C3%B6kmen-b240b319/">LinkedIn</a> ·
+        <a href="https://github.com/muhittingokmen">GitHub</a>
+      </span>
+    </div>
   </div>
-
 </footer>

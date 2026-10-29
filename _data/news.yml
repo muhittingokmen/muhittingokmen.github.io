@@ -1,0 +1,9 @@
+# Home page "News" list, newest first. Add a line to add news.
+- when: "Jul 2026"
+  text: "Guest on Sözcü TV and CNN Türk university-choice programmes, discussing flipped learning and MEF's AI competency requirement."
+- when: "2026–27"
+  text: "MEF University's mandatory AI competency graduation requirement takes effect for the incoming cohort."
+- when: "May 2026"
+  text: "Guest of the MEF TEKMER Technology Talks series, on entrepreneurship and AI."
+- when: "Feb 2026"
+  text: "Panelist at \"Education in the Age of Artificial Intelligence\", Beşiktaş District Directorate of National Education."
