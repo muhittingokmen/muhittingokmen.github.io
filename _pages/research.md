@@ -38,6 +38,7 @@ permalink: /research/
 12. A. Akyol, M.Gokmen,” Super-Resolution Reconstruction of Faces by Enhanced Global Models of Shape and Texture,” Pattern Recognition, Pattern Recognition 45, 2012, pp.4103-4116,
 13. M. Uzun-Per, M. Gokmen,"Face recognition with Patch-based Local Walsh Transform," Signal Processing: Image Communication 61, 2018, pp.85-96,
 14. E Basaran, M Gökmen, ME Kamasak, "An Efficient Multiscale Scheme Using Local Zernike Moments for Face Recognition," Applied Sciences 8 (5), 2018, p.827,
+15. E Basaran, M Gökmen, ME Kamasak, “An efficient framework for visible-infrared cross modality person re-identification”, Signal Processing: Image Communication, 2020, 87,115933
 
 ### LNCS papers
 
@@ -242,9 +243,21 @@ permalink: /research/
     2.  E Basaran, M Gokmen, A novel face recognition method based on Local Zernike Moments, Signal Processing and Communications Applications Conference (SIU), 2014.
     3.  BS Coban, M Gokmen, Gender classification with Local Zernike Moments and local binary patterns, Signal Processing and Communications Applications Conference (SIU), 2014.
     4.  BS Akkoca, M Gokmen, Facial expression recognition from static images, Signal Processing and Communications Applications Conference (SIU), 2014
+    5.  G Özbulak, M Gökmen, A rotation invariant local Zernike moment based interest point detector, Seventh International Conference on Machine Vision (ICMV) 2014.
+    6.  M Uzun-Per, M Gokmen, Face recognition with a novel image representation: Local Walsh-Hadamard Transform, Visual Information Processing (EUVIP), ≈ 5th European Workshop on 2014
 -   #### 2015
 
     1.  BS Akkoca, M Gokmen, Automatic smile recognition from face images, Signal Processing and Communications Applications Conference (SIU), 2015 ...
     2.  M Uzun-Per, M Gokmen, Face recognition with Local Walsh-Hadamard Transform around landmarks, Signal Processing and Communications Applications Conference (SIU), 2015 ...
     3.  G Ozbulak, M Gokmen, Corner detection by Local Zernike Moments, Signal Processing and Communications Applications Conference (SIU), 2015 ...
     4.  G Vural, M Gokmen, Facial feature detection using Conditional Regression Forests, Signal Processing and Communications Applications Conference (SIU), 2015 ...
+
+    #### 2017
+    1. B.S.A. Gazioğlu, M. Gökmen, Facial expression recognition from still images, Int. Conf. on Augmented Cognition, 413-428, 2017
+
+    #### 2018
+    1.  M.M. Kalayeh, E. Basaran, M. Gökmen, M.E. Kamasak, M. Shah, “Human semantic parsing for person re-identification,” Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR),  pp. 1062-1071, 2018
+
+    #### 2024
+    3. M Gokmen, E Sariyanidi, L Yankowitz, CJ Zampella, RT Schultz, B Tunç,
+“Detecting Autism from Head Movements using Kinesics”, in Internatıonal Conference on Multimodal Interaction (ICMI ’24), November 04–08, 2024, San Jose, Costa Rica. ACM, New York, NY, USA, 5 pages.https://doi.org/10.1145/3678957.368571, 2024. 
