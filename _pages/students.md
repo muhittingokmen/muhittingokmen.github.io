@@ -61,3 +61,4 @@ permalink: /students/
 - Bilge Süheyla Akkoca, Durgun Görüntülerden Yüz İfadelerinin Tanınması, 2014
 - Şeref Emre Kahraman, Yerel Zernike Momentleri ve Metrik Öğrenme Yöntemleriyle Yüz Çifti Eşleme, 2015
 - Gökhan Özbulak, R-LZMF: Robust Local Zernike Moment Based Features, 2015
+- Gencer Vural, Yüzdeki Nirengi Noktalarının Koşullu Regresyon Ormanı ile Saptanması, 2015
