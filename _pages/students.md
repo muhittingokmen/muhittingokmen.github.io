@@ -12,6 +12,7 @@ permalink: /students/
 - Birkan Tunc, “Robust Face Recognition on Nonlinear Manifolds,” ITU BE Haziran 2012,
 - Aydın Akyol,”Efficient Techniques for the Single Frame Super-resolution Reconstruction of Intensity Images,”, ITU FBE, Haziran 2012,
 - Meryem Uzun-Per, "Face recognition with Local Walsh Transform,", ITU FBE, February 2018,
+- Emrah Başaran, “ Face Recognition and Person Identification for Person Recognition,” İTÜ FBE February 2020.
 
 ## Master Theses Supervised
 
