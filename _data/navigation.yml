@@ -16,6 +16,4 @@ main:
     href: /students/
   - title: "Posts"
     href: /posts/
-  - title: "CV"
-    href: /assets/gokmen-CV.pdf
     highlight: true
