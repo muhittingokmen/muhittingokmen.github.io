@@ -16,4 +16,4 @@ main:
     href: /students/
   - title: "Posts"
     href: /posts/
-    highlight: true
+#    highlight: true
