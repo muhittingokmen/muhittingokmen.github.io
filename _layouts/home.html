@@ -142,7 +142,7 @@
           <ol class="v-pubs">
             {%- assign pubs = site.data.selected_publications | sort: "year" | reverse -%}
             {%- for pub in pubs -%}
-            <li><span class="v-pub-year">{{ pub.year }}</span><span class="v-pub-body"><span class="v-pub-title">{{ pub.title }}</span><span class="v-pub-venue">{{ pub.venue }}</span></span></li>
+            <li><span class="v-pub-year">{{ pub.year }}</span><span class="v-pub-body"><span class="v-pub-title">{{ pub.title }}</span><span class="v-pub-venue">{{ pub.venue }}</span>{%- if pub.url -%}<a class="v-pub-link" href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.link_text | default: "PDF" }} &rarr;</a>{%- endif -%}</span></li>
             {%- endfor -%}
           </ol>
         </div>
