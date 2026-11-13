@@ -212,6 +212,8 @@ $navy: #0B1630;
 .v-pub-body { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
 .v-pub-title { font-weight: 600; }
 .v-pub-venue { font-size: 15px; color: #445166; }
+.v-pub-link { font-size: 14px; color: $accent; text-decoration: none; margin-top: 2px; }
+.v-pub-link:hover { text-decoration: underline; }
 
 @include media-query($on-palm) {
   .v-hero h1 { font-size: 56px; }
