@@ -9,7 +9,7 @@ Dr. Gokmen returned to Turkey in 1992, and joined the Istanbul Technical Univers
 
 Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture at ITU. He has a son, Cem, born in 1997.
 
-<!--I enjoy all types of art, be it photography, paintings, sculpture, or even filmmaking. In fact, during my stay in Pittsburgh I took a filmmaking course from Pittsburgh Filmmakers. I especially like watching French festival movies. I have a passion of travelling around the world, yet I am very fond of my hometown(s), Boyabat and Istanbul. I swim and windsurf for sports, and go jogging by the Bosporus when I have time. I have a lovely wife, Gülçin – and an awesome son, [Cem](https://www.cemgokmen.com/), who make my life even more beautiful. As a scientist, I see science as the means to a better future, where life is easier and everyone is equal.-->
+<!--I enjoy all types of art, be it photography, paintings, sculpture, or even filmmaking. In fact, during my stay in Pittsburgh I took a filmmaking course from Pittsburgh Filmmakers. I especially like watching French festival movies. I have a passion of travelling around the world, yet I am very fond of my hometown(s), Boyabat and Istanbul. I swim and windsurf for sports, and go jogging by the Bosporus when I have time. I have a lovely wife, Gülçin – and an awesome son, [Cem](https://www.cemgokmen.com) , who make my life even more beautiful. As a scientist, I see science as the means to a better future, where life is easier and everyone is equal.-->
 
 ### Current Positions
 - **Vice Rector for Research (2025-To Date)**  
