@@ -16,7 +16,7 @@ Dr. Gokmen is married to Gulcin Pulat Gokmen, who is Professor of Architecture a
 [**MEF University**](https://www.mef.edu.tr/en/akademik-kadro/1400000089)
 
 - **Director (2026-To Date)**  
-[**MEF University** - Artificial Intelligence Research Center](https://ai.mef.edu.tr/)
+[**MEF University** - Artificial Intelligence Research and Development Center](https://ai.mef.edu.tr/)
 
 ### Previous Positions
 - **Department Chair (2014-2023)**  
